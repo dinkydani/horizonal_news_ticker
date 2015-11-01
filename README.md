@@ -1,0 +1,1 @@
+# Horizonal News Ticker Example
